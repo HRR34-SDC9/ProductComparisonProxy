@@ -1,0 +1,23 @@
+{
+  "name": "DrewProxyServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrontEndCapstone/DrewProxyServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrontEndCapstone/DrewProxyServer/issues"
+  },
+  "homepage": "https://github.com/FrontEndCapstone/DrewProxyServer#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
